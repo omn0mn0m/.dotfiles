@@ -1,0 +1,7 @@
+[user]
+	name = Nam Tran
+	email = omn0mn0m@protonmail.com
+[core]
+	editor = nano -w
+[init]
+	defaultBranch = main
