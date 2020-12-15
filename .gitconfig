@@ -5,3 +5,5 @@
 	editor = nano -w
 [init]
 	defaultBranch = main
+[pull]
+	rebase = false
